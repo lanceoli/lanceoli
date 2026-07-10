@@ -21,3 +21,4 @@
 ![Static Badge](https://img.shields.io/badge/Tailwind-%2306B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ---
 [![lanceoli's GitHub stats](https://github-stats-extended.vercel.app/api?username=lanceoli&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight)](https://github.com/stats-organization/github-stats-extended)
+http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={lanceoli}&theme={tokyonight}
