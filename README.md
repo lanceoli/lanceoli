@@ -1,5 +1,5 @@
 # **lanceoli**
----
+
 ## Tools
 ![Static Badge](https://img.shields.io/badge/Playwright-%2398FB98)
 ![Static Badge](https://img.shields.io/badge/TypeScript-%233178C6?logo=typescript&logoColor=white)
