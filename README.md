@@ -1,5 +1,6 @@
 ## Tools
 ![Static Badge](https://img.shields.io/badge/Playwright-%2398FB98)
+![Static Badge](https://img.shields.io/badge/Postman-%23FF6C37?logo=postman&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/TypeScript-%233178C6?logo=typescript&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/JavaScript-%23F7DF1E?logo=javascript&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Python-%233776AB?logo=python&logoColor=white)
