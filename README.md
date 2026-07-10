@@ -16,3 +16,8 @@
 ![Static Badge](https://img.shields.io/badge/MySQL-%234479A1?logo=mysql&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/MongoDB-%2347A248?logo=mongodb&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Apps%20Script-%234285F4?logo=googleappsscript&logoColor=white)
+![Static Badge](https://img.shields.io/badge/C-%23A8B9CC?logo=c&logoColor=white)
+![Static Badge](https://img.shields.io/badge/HTML-%23E34F26?logo=html5&logoColor=white)
+![Static Badge](https://img.shields.io/badge/CSS-%23663399?logo=css&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Tailwind-%2306B6D4?logo=tailwindcss&logoColor=white)
+---
