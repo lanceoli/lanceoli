@@ -20,4 +20,4 @@
 ![Static Badge](https://img.shields.io/badge/CSS-%23663399?style=for-the-badge&logo=css&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Tailwind-%2306B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ---
-[![lanceoli's GitHub stats](https://github-stats-extended.vercel.app/api?username=lanceoli)](https://github.com/stats-organization/github-stats-extended)
+[![lanceoli's GitHub stats](https://github-stats-extended.vercel.app/api?username=lanceoli&show_icons=true&theme=tokyonight)](https://github.com/stats-organization/github-stats-extended)
