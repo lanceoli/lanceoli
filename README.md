@@ -1,4 +1,9 @@
 <table align="center" style="table-layout: fixed; width: 100%;">
+  <colgroup>
+    <col style="width: 33.3%;">
+    <col style="width: 33.3%;">
+    <col style="width: 33.3%;">
+  </colgroup>
   <tr>
     <th> Development </th>
     <th> Testing </th>
