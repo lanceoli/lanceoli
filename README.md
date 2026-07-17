@@ -1,6 +1,6 @@
 ## Tools
 
-<table>
+<table align="center">
   <tr>
     <th> Programming Languages and Frameworks </th>
     <th> Testing Tools </th>
