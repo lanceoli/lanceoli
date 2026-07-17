@@ -31,7 +31,7 @@
     </td>
     <td>
       <img src="https://img.shields.io/badge/MongoDB-%2347A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-      <img src="https://img.shields.io/badge/Supabase-%234479A1?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
+      <img src="https://img.shields.io/badge/Supabase-%F1F1F1?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
       <img src="https://img.shields.io/badge/MySQL-%234479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
     </td>
   </tr>
