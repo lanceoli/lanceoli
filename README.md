@@ -1,7 +1,17 @@
 ## Tools
 
-|prog|test|db|
-|asd|asd|asd|
+<table>
+  <tr>
+    <th> Programming Languages and Frameworks </th>
+    <th> Testing Tools </th>
+    <th> Databases </th>
+  </tr>
+  <tr>
+    <td>test</td>
+    <td>test</td>
+    <td>test</td>
+  </tr>
+</table>
 
 ![Static Badge](https://img.shields.io/badge/Playwright-%2398FB98?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/Postman-%23FF6C37?style=for-the-badge&logo=postman&logoColor=white)
