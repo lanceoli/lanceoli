@@ -1,8 +1,8 @@
 <table align="center">
   <tr>
-    <th> Development </th>
-    <th> Testing </th>
-    <th> Databases </th>
+    <th width="33.33%"> Development </th>
+    <th width="33.33%"> Testing </th>
+    <th width="33.33%"> Databases </th>
   </tr>
   <tr>
     <td> 
