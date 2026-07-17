@@ -7,7 +7,8 @@
     <th> Databases </th>
   </tr>
   <tr>
-    <td>![Static Badge](https://img.shields.io/badge/TypeScript-%233178C6?style=for-the-badge&logo=typescript&logoColor=white)</td>
+    <!-- <td>![Static Badge](https://img.shields.io/badge/TypeScript-%233178C6?style=for-the-badge&logo=typescript&logoColor=white)</td> -->
+    <td> <img src="https://img.shields.io/badge/TypeScript-%233178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"></td>
     <td>![Static Badge](https://img.shields.io/badge/Playwright-%2398FB98?style=for-the-badge)</td>
     <td>test</td>
   </tr>
