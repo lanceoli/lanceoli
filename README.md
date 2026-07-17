@@ -1,4 +1,4 @@
-<table align="center">
+<table align="center" style="table-layout: fixed; width: 100%;">
   <tr>
     <th> Development </th>
     <th> Testing </th>
