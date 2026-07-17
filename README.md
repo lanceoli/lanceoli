@@ -27,7 +27,8 @@
       <img src="https://img.shields.io/badge/Playwright-%2398FB98?style=for-the-badge" alt="Playwright"/>
       <img src="https://img.shields.io/badge/Postman-%23FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
       <img src="https://img.shields.io/badge/Jira-%230052CC?style=for-the-badge&logo=jira" alt="Jira"/>
-      <img src="https://img.shields.io/badge/Shortcut-%2358B1E4?style=for-the-badge&logo=shortcut&logoColor=white" alt="Jira"/>
+      <img src="https://img.shields.io/badge/Shortcut-%2358B1E4?style=for-the-badge&logo=shortcut&logoColor=white" alt="Shortcut"/>
+      <img src="https://img.shields.io/badge/Github%20Actions-%232088FF?style=for-the-badge&logo=githubactions" alt="Github Actions"/>
     </td>
     <td>
       <img src="https://img.shields.io/badge/MongoDB-%2347A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
