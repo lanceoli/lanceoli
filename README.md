@@ -2,66 +2,31 @@
 
 <table align="center">
   <tr>
-    <th> Languages and Frameworks </th>
+    <th> Development </th>
     <th> Testing Tools </th>
     <th> Databases </th>
   </tr>
   <tr>
-    <!-- <td>![Static Badge](https://img.shields.io/badge/TypeScript-%233178C6?style=for-the-badge&logo=typescript&logoColor=white)</td> -->
-    <td> <img src="https://img.shields.io/badge/TypeScript-%233178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"></td>
-    <td>![Static Badge](https://img.shields.io/badge/Playwright-%2398FB98?style=for-the-badge)</td>
-    <td>test</td>
+    <img src="" alt=""/>
+    <td> 
+      <img src="https://img.shields.io/badge/TypeScript-%233178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+      <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript"/>
+      <img src="https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+      <img src="https://img.shields.io/badge/Java-%23FF0000?style=for-the-badge" alt="Java"/>
+      <img src="https://img.shields.io/badge/C%2B%2B-%2300599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+      <img src="https://img.shields.io/badge/ReactJS-%2361DAFB?style=for-the-badge&logo=react&logoColor=white" alt="ReactJS"/>
+      <img src="https://img.shields.io/badge/PHP-%23777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/Playwright-%2398FB98?style=for-the-badge" alt="Playwright"/>
+      <img src="https://img.shields.io/badge/Postman-%23FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+    </td>
+    <td>
+      <img src="" alt=""/>
+    </td>
   </tr>
-  <tr>
-    <td>![Static Badge](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)</td>
-    <td>![Static Badge](https://img.shields.io/badge/Postman-%23FF6C37?style=for-the-badge&logo=postman&logoColor=white)</td>
-    <td>test</td>
-  </tr>
-  <tr>
-    <td>test</td>
-    <td>test</td>
-    <td>test</td>
-  </tr>
-  <tr>
-    <td>test</td>
-    <td>test</td>
-    <td>test</td>
-  </tr>
-  <tr>
-    <td>test</td>
-    <td>test</td>
-    <td>test</td>
-  </tr>
-  <tr>
-    <td>test</td>
-    <td>test</td>
-    <td>test</td>
-  </tr>
-  <tr>
-    <td>test</td>
-    <td>test</td>
-    <td>test</td>
-  </tr>
-  <tr>
-    <td>test</td>
-    <td>test</td>
-    <td>test</td>
-  </tr>
-  <tr>
-    <td>test</td>
-    <td>test</td>
-    <td>test</td>
-  </tr>
-  
 </table>
 
-
-
-![Static Badge](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Java-%23FF0000?style=for-the-badge)
-![Static Badge](https://img.shields.io/badge/C%2B%2B-%2300599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Static Badge](https://img.shields.io/badge/ReactJS-%2361DAFB?style=for-the-badge&logo=react&logoColor=white)
-![Static Badge](https://img.shields.io/badge/PHP-%23777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Matlab-white?style=for-the-badge&logo=matlab&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Node.js-%235FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)
