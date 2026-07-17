@@ -2,21 +2,60 @@
 
 <table align="center">
   <tr>
-    <th> Programming Languages and Frameworks </th>
+    <th> Languages and Frameworks </th>
     <th> Testing Tools </th>
     <th> Databases </th>
+  </tr>
+  <tr>
+    <td>![Static Badge](https://img.shields.io/badge/TypeScript-%233178C6?style=for-the-badge&logo=typescript&logoColor=white)</td>
+    <td>![Static Badge](https://img.shields.io/badge/Playwright-%2398FB98?style=for-the-badge)</td>
+    <td>test</td>
+  </tr>
+  <tr>
+    <td>![Static Badge](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)</td>
+    <td>![Static Badge](https://img.shields.io/badge/Postman-%23FF6C37?style=for-the-badge&logo=postman&logoColor=white)</td>
+    <td>test</td>
   </tr>
   <tr>
     <td>test</td>
     <td>test</td>
     <td>test</td>
   </tr>
+  <tr>
+    <td>test</td>
+    <td>test</td>
+    <td>test</td>
+  </tr>
+  <tr>
+    <td>test</td>
+    <td>test</td>
+    <td>test</td>
+  </tr>
+  <tr>
+    <td>test</td>
+    <td>test</td>
+    <td>test</td>
+  </tr>
+  <tr>
+    <td>test</td>
+    <td>test</td>
+    <td>test</td>
+  </tr>
+  <tr>
+    <td>test</td>
+    <td>test</td>
+    <td>test</td>
+  </tr>
+  <tr>
+    <td>test</td>
+    <td>test</td>
+    <td>test</td>
+  </tr>
+  
 </table>
 
-![Static Badge](https://img.shields.io/badge/Playwright-%2398FB98?style=for-the-badge)
-![Static Badge](https://img.shields.io/badge/Postman-%23FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Static Badge](https://img.shields.io/badge/TypeScript-%233178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Static Badge](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
+
+
 ![Static Badge](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Java-%23FF0000?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/C%2B%2B-%2300599C?style=for-the-badge&logo=cplusplus&logoColor=white)
