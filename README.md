@@ -1,7 +1,7 @@
 <table align="center">
   <tr>
     <th> Development </th>
-    <th> Testing Tools </th>
+    <th> Testing </th>
     <th> Databases </th>
   </tr>
   <tr>
