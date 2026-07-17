@@ -26,7 +26,7 @@
     <td>
       <img src="https://img.shields.io/badge/Playwright-%2398FB98?style=for-the-badge" alt="Playwright"/>
       <img src="https://img.shields.io/badge/Postman-%23FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
-      <img src="https://img.shields.io/badge/Jira-%230052CC?style=for-the-badge" alt="Jira"/>
+      <img src="https://img.shields.io/badge/Jira-%230052CC?style=for-the-badge&logo=jira" alt="Jira"/>
     </td>
     <td>
       <img src="https://img.shields.io/badge/MongoDB-%2347A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
